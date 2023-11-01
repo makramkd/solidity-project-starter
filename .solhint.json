@@ -1,0 +1,7 @@
+{
+	"extends": "solhint:recommended",
+	"plugins": ["solhint-plugins"],
+	"rules": {
+        "solhint-plugins/state-vars-s-underscore": "warn"
+	}
+}
