@@ -11,7 +11,6 @@
   "license": "MIT",
   "dependencies": {
     "solhint": "^4.0.0",
-    "solhint-plugin-solhint-plugins": "file:../solhint-plugins",
-    "solhint-plugins": "file:../solhint-plugins"
+    "solhint-plugin-solhint-plugins": "file:../solhint-plugins"
   }
 }
